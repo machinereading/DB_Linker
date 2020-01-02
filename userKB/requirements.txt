@@ -1,0 +1,3 @@
+SPARQLWrapper
+JPype1
+Flask
